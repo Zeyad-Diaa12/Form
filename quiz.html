@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="quiz.css">
+    <title>Questions</title>
+</head>
+
+<body>
+    <div class="MainContainer">
+        <h1 class="question-count">Question completed <span class="current-question"></span> out of <span class="qCount"></span></h1>
+        <div class="question-area">
+
+            <h2 class="theQuestion">Question 1</h2>
+            <div class="question-answers">
+                <div class="question-choices">
+                    <div class="choices">
+                        <input type="radio" name="question" id="choice_1" data-answer="points_1">
+                        <label for="choice_1">A</label>
+                    </div>
+                    <div class="choices">
+                        <input type="radio" name="question" id="choice_2" data-answer="points_2">
+                        <label for="choice_2">B</label>
+                    </div>
+                    <div class="choices">
+                        <input type="radio" name="question" id="choice_3" data-answer="points_3">
+                        <label for="choice_3">C</label>
+                    </div>
+                    <div class="choices">
+                        <input type="radio" name="question" id="choice_4" data-answer="points_4">
+                        <label for="choice_4">D</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="submit-button">Next</button>
+    </div>
+    <script src="../script.js"></script>
+</body>
+
+</html>

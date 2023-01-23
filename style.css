@@ -1,0 +1,59 @@
+/* Colors in website */
+:root{
+    background-color: rgb(40, 40, 40);
+    --color2:#7e60f3;
+    --color3:rgb(28, 238, 98);
+    --color5:#3fa0ee;
+    --white:#ffffff;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 70px;
+    color: var(--white);
+}
+
+.btn{
+    font-size: 2rem;
+    font-weight: 900;
+    padding: .5rem;
+    width: 10rem;
+    background-color: #1cee62;  
+    color: var(--white);
+    text-align: center;
+    border-radius: 10px;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    text-decoration: none;
+    transition: all .5s ease;
+}
+
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(28, 238, 98, 0.6);
+    background-color: white;
+    color: #1cee62;
+    transform: scale(1.1);
+}
+
+.MainContainer{
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

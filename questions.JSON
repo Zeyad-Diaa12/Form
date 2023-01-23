@@ -1,0 +1,97 @@
+[
+    {
+        "title": "Why We Use 'br' Element?",
+        "choice_1": {
+            "answer_1": "To Make Text Bold",
+            "points_1": 2
+        },
+        "choice_2": {
+            "answer_2": "To Make Text Italic",
+            "points_2": 5
+        },
+        "choice_3": {
+            "answer_3": "To Make Break Line",
+            "points_3": 1
+        },
+        "choice_4": {
+            "answer_4": "To Make Text",
+            "points_4": 0
+        }
+    },
+    {
+        "title": "Does 'img' Element Has Attribute href?",
+        "choice_1": {
+            "answer_1": "Yes",
+            "points_1": 5
+        },
+        "choice_2": {
+            "answer_2": "No",
+            "points_2": 3
+        },
+        "choice_3": {
+            "answer_3": "Here",
+            "points_3": 1
+        },
+        "choice_4": {
+            "answer_4": "All",
+            "points_4": 7
+        }
+    },
+    {
+        "title": "What is my name?",
+        "choice_1": {
+            "answer_1": "Zeyad",
+            "points_1": 20
+        },
+        "choice_2": {
+            "answer_2": "Diaa",
+            "points_2": 3
+        },
+        "choice_3": {
+            "answer_3": "Kareem",
+            "points_3": 10
+        },
+        "choice_4": {
+            "answer_4": "Malak",
+            "points_4": 3
+        }
+    },
+    {
+        "title": "Your age?",
+        "choice_1": {
+            "answer_1": 20,
+            "points_1": 5
+        },
+        "choice_2": {
+            "answer_2": 50,
+            "points_2": 3
+        },
+        "choice_3": {
+            "answer_3": 10,
+            "points_3": 1
+        },
+        "choice_4": {
+            "answer_4": 12,
+            "points_4": 7
+        }
+    },
+    {
+        "title": "Color",
+        "choice_1": {
+            "answer_1": "Green",
+            "points_1": 5
+        },
+        "choice_2": {
+            "answer_2": "Red",
+            "points_2": 31
+        },
+        "choice_3": {
+            "answer_3": "Black",
+            "points_3": 1
+        },
+        "choice_4": {
+            "answer_4": "White",
+            "points_4": 70
+        }
+    }
+]
